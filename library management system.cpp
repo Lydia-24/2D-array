@@ -1,3 +1,8 @@
+//program to display the library system management
+/*authur:Lydia kamau
+Reg no:BBIT-05-0158/2024
+date:feb 24 2025*/
+
 #include<iostream>
 #include<string>
 using namespace std;
