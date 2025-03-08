@@ -1,3 +1,7 @@
+//Program on 2D
+/*author :Lydia Kamau
+Reg no: BBIT-05-0158/2024
+date:Mar 3 2024*/
 #include<iostream>
 using namespace std;
 #define rows 3
